@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created for MapSVG plugin: http://mapsvg.com -->
+
+<svg
+   mapsvg:geoViewBox="-169.110266 83.600842 190.486279 -58.508473"
+   width="97.089722"
+   height="97.089691"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Perthia.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:mapsvg="http://mapsvg.com">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="6.9853729"
+     inkscape:cx="29.347037"
+     inkscape:cy="45.881588"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="97.089722"
+       height="97.089691"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <circle
+     style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.45764;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+     id="circle52"
+     cx="48.544861"
+     cy="48.54483"
+     r="48.544842"
+     inkscape:label="Backdrop"
+     inkscape:export-filename="Perthia.png"
+     inkscape:export-xdpi="1012.51"
+     inkscape:export-ydpi="1012.51" />
+  <circle
+     style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.29047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+     id="circle49"
+     cx="48.544861"
+     cy="48.54483"
+     r="42.977367"
+     inkscape:label="Black" />
+  <path
+     id="path52"
+     style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#ffd100;fill-opacity:1;stroke:none;stroke-width:1.29047;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000"
+     d="m 71.265812,12.064427 a 42.977367,42.977367 0 0 0 -22.72071,-6.4961 42.977367,42.977367 0 0 0 -42.9785101,42.97656 42.977367,42.977367 0 0 0 42.9785101,42.97657 42.977367,42.977367 0 0 0 39.85352,-26.88868 l -7.91406,0.44141 -5.36914,2.36133 -3.29297,-0.57227 -4.86719,2.64844 -2.00391,3.36328 -9.44726,-0.21484 -2.57813,1.79101 -4.22265,2.28907 -4.50977,-0.85743 -3.14844,-2.14843 1.00196,-2.07617 1.14453,-1.07227 -0.0703,-4.08008 -2.14844,-7.66015 -2.14649,-5.22461 -2.64843,-5.94141 0.57226,-7.01367 0.78711,-3.65039 2.50586,-2.64844 5.43945,-3.36523 7.65821,-2.07618 3.9375,-0.57226 4.36523,-7.80078 2.07617,-1.9336 2.36328,-0.71484 2.07422,-2.36328 3.15039,-3.36328 z"
+     inkscape:label="Perthia" />
+</svg>
