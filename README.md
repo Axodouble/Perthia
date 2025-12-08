@@ -1,8 +1,8 @@
-# Perthia
-
 <p align="center">
   <img src="branding/Perthia.svg" alt="Perthia logo" width="220" />
 </p>
+
+# Perthia
 
 Perthia is a small web presence and branding space for a Perth-based gaming community. The site is a static landing page with simple assets and a containerized Nginx setup for easy hosting.
 
